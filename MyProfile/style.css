@@ -1,0 +1,54 @@
+.main-header {
+  width: 1100px;
+  margin: 10px auto;
+}
+
+.main-container {
+  display: flex;
+}
+
+.firstImage-logo {
+  width: 20%;
+}
+.secao {
+  display: flex;
+  flex-direction: column;
+  /* background-color: red; */
+  margin-bottom: 10px;
+}
+
+.titulosecao {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.conteudo {
+  margin-left: 10px;
+}
+.lista {
+  margin-left: 20px;
+}
+
+.ancora:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: #000000;
+}
+.ancora {
+  cursor: pointer;
+  color: #000000;
+}
+
+.redesocial {
+  width: 50px;
+}
+
+.redesociais {
+  list-style: none;
+  display: flex;
+}
+
+.tt {
+  padding-left: 10px;
+}
