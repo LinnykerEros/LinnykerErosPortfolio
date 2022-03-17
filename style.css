@@ -9,12 +9,12 @@ body {
   width: 500px;
   color: #1c1c1c;
   background: #ecf4ff;
-  margin: auto;
+  margin: 40px auto;
   padding: 64px;
   border-radius: 20px;
   box-shadow: 6px 6px 6px #0e1d2f;
 }
-#mainAndCursos {
+#projetosAndCursos {
   width: 500px;
   display: flex;
   gap: 1rem;
