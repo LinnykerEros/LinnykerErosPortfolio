@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap");
 
 body {
-  background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
+  background: #041832;
   font-family: "Fredoka", sans-serif;
 }
 
@@ -58,7 +58,7 @@ body {
   cursor: pointer;
 }
 .dark {
-  background: linear-gradient(236.85deg, #375b86 27.26%, #6b87a9 96.03%);
+  background: #041832;
 }
 .dark .containerPaideTodos {
   background: #333439;
